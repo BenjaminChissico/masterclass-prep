@@ -28,19 +28,16 @@ Follow the next steps to create the environment in which the master class will b
     - `python -m virtualenv .venv`
     - `.venv\Scripts\activate`
 - Congratulations, you successfully downloaded virtualenv and created your first empty virtual environment called ".venv". In the very left corner of your Anaconda Prompt you should see now (.venv) in front of the cursor.
-- Put the requirements_udpated.txt file in the "masterclass" folder 
-- run the following command `pip install -r requirements_updated.txt`
+- run the following command to install the starting package for the course "jupyter lab" `pip install jupyterlab`
 
-Let the installation finish, this can take a few minutes(15-30 minutes).
-Congratulations, you successfully installed python, created your first virtual environment, and installed all necessary libraries for the masterclass course!
-
+After the installation went through you should be able to open a "jupyter lab" by simply typing "jupyter lab" in the command line (you need to activate your environment first!).
 
 If you restart your pc & you want to re-activate your virtual-environment just do the following steps:
 - navigate to your "masterlcass" folder with the anaconda prompt 
 - when there, type `.venv\Scripts\activate` and press enter 
+- type `jupyter lab` and the jupyterlab should open in the browser.
 
 <h2 align=middle>Happy Hacking </h2>
-
 
 
 
