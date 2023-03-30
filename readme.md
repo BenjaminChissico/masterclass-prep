@@ -37,6 +37,14 @@ If you restart your pc & you want to re-activate your virtual-environment just d
 - when there, type `.venv\Scripts\activate` and press enter 
 - type `jupyter lab` and the jupyterlab should open in the browser.
 
+## Git 
+IF you don't have GIT on your UAP, then ask your local **Requester** to install "Git for windows" on your UAP.  
+If you or your requester have any struggles, you can contact me (Benjamin Chissico) directly, and I will try to help you!
+
+
+
+
+
 <h2 align=middle>Happy Hacking </h2>
 
 
